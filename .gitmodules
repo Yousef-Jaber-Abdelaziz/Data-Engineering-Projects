@@ -1,3 +1,6 @@
 [submodule "Airline-Loyalty-Program-Data-Analysis"]
 	path = Airline-Loyalty-Program-Data-Analysis
 	url = https://github.com/Yousef-Jaber-Abdelaziz/Airline-Loyalty-Program-Data-Analysis.git
+[submodule "Electrical-Vehicles-Data-Analysis-Project"]
+	path = Electrical-Vehicles-Data-Analysis-Project
+	url = https://github.com/Yousef-Jaber-Abdelaziz/Electrical-Vehicles-Data-Analysis-Project.git
