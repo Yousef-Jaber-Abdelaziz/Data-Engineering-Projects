@@ -9,7 +9,7 @@ This repository is a **portfolio collection** of my end-to-end projects that dem
 
 | Project Type | Projects |
 |--------------|----------|
-| <div align="center">**On-Premise**</div> | <a href="https://github.com/Yousef-Jaber-Abdelaziz/Airline-Loyalty-Program-Project"><img src="https://img.shields.io/badge/✈️%20Airline%20Loyalty%20Program-28a745?style=for-the-badge" alt="Airline Loyalty Program Project"/></a> |
+| <div align="center">**On-Premise**</div> | <a href="https://github.com/Yousef-Jaber-Abdelaziz/Airline-Loyalty-Program-Project"><img src="https://img.shields.io/badge/✈️%20Airline%20Loyalty%20Program-28a745?style=for-the-badge" alt="Airline Loyalty Program Project Data Analysis"/></a> |
 | <div align="center">**Fabric / Cloud**</div> | <a href="https://github.com/Yousef-Jaber-Abdelaziz/Electrical-Vehicles-Data-Analysis-Project"><img src="https://img.shields.io/badge/🔋%20Electrical%20Vehicles%20Data%20Analysis-0366d6?style=for-the-badge" alt="Electrical Vehicles Data Analysis Project"/></a> |
 
 ---
