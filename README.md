@@ -105,7 +105,7 @@ As the data landscape evolves, I am actively expanding my expertise in **Cloud O
 Let's connect! I am always open to discussing data engineering, AI trends, or potential collaborations.
 
 * **📧 Email:** [yousef.gaber.ai@gmail.com](mailto:yousef.gaber.ai@gmail.com)
-* **🔗 LinkedIn:** [Yousef Jaber Abdelaziz]([https://www.linkedin.com/in/yousef-jaber-abdelaziz/](https://www.linkedin.com/in/yousef-jaber-306a83245?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bm0ix%2B3cNT7yofzxexdplXw%3D%3D)) *(Note: Replace with your actual LinkedIn URL)*
+* **🔗 LinkedIn:** [Yousef Jaber Abdelaziz]([https://www.linkedin.com/in/yousef-jaber-abdelaziz/](https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3B5%2BBvRcfFS7GDPUfCMre46Q%3D%3D))
 * **🐙 GitHub:** [@Yousef-Jaber-Abdelaziz](https://github.com/Yousef-Jaber-Abdelaziz)
 * **📱 Phone:** +20 101 392 6658
 
