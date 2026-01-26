@@ -1,44 +1,32 @@
 # 👋 Welcome to My Data & AI Portfolio  
 
-I'm **Yousef Jaber Abdelaziz**, a Computer Science graduate specializing in **Artificial Intelligence**. I bridge the gap between raw data and actionable insights through **Data Engineering, Machine Learning, and Business Intelligence**.
-
----
-
-## 🛠️ Tech Stack & Tools
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![SQL](https://img.shields.io/badge/sql-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Microsoft Fabric](https://img.shields.io/badge/Microsoft%20Fabric-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Informatica](https://img.shields.io/badge/Informatica-FF4D00?style=for-the-badge&logo=informatica&logoColor=white)
-![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
-
----
-
-## 🚀 Featured Project
-### [⚡ Electrical Vehicles Data Analysis (End-to-End)](https://github.com/Yousef-Jaber-Abdelaziz/Electrical-Vehicles-Data-Analysis-Project)
-* **The Goal**: Analyze EV adoption trends using a modern cloud-based stack.
-* **The Tech**: Microsoft Fabric, Dataflows Gen2, Lakehouse, and Power BI.
-* **The Key Result**: Built a multi-layer (Medallion) architecture that transformed 100k+ rows of raw data into a dynamic executive dashboard.
+I'm **Yousef Jaber Abdelaziz**, a Computer Science graduate specialized in **Artificial Intelligence** with strong interest in **Data Engineering, Machine Learning, and Business Intelligence**.  
+This repository is a **portfolio collection** of my end-to-end projects that demonstrate how I apply both **On-Premise** and **Cloud (Fabric)** data engineering and analytics skills to solve real-world problems.  
 
 ---
 
 ## 📂 Projects Navigation  
 
-| Environment | Projects | Focus |
-| :--- | :--- | :--- |
-| **On-Premise** | [✈️ Airline Loyalty Program](https://github.com/Yousef-Jaber-Abdelaziz/Airline-Loyalty-Program-Data-Analysis) | ETL, T-SQL, Data Cleaning |
-| | [📺 YouTube Channels Analysis](https://github.com/Yousef-Jaber-Abdelaziz/Youtube-Channels-Data-Analysis) | Python, Exploratory Data Analysis |
-| **Cloud / Fabric** | [🔋 Electrical Vehicles Analysis](https://github.com/Yousef-Jaber-Abdelaziz/Electrical-Vehicles-Data-Analysis-Project) | Medallion Architecture, Cloud DWH |
+| Project Type | Projects |
+|--------------|----------|
+| <div align="center">**On-Premise**</div> | <a href="https://github.com/Yousef-Jaber-Abdelaziz/Airline-Loyalty-Program-Data-Analysis"><img src="https://img.shields.io/badge/✈️%20Airline%20Loyalty%20Program-28a745?style=for-the-badge" alt="Airline Loyalty Program Project"/></a> <br> <a href="https://github.com/Yousef-Jaber-Abdelaziz/Youtube-Channels-Data-Analysis"><img src="https://img.shields.io/badge/📺%20YouTube%20Channels%20Data%20Analysis-ff0000?style=for-the-badge" alt="YouTube Channels Data Analysis Project"/></a> |
+| <div align="center">**Fabric / Cloud**</div> | <a href="https://github.com/Yousef-Jaber-Abdelaziz/Electrical-Vehicles-Data-Analysis-Project"><img src="https://img.shields.io/badge/🔋%20Electrical%20Vehicles%20Data%20Analysis-0366d6?style=for-the-badge" alt="Electrical Vehicles Data Analysis Project"/></a> |
+
 
 ---
 
-## 🏗️ Core Competencies
-* **Data Engineering**: Designing ETL/ELT pipelines, managing ODS to DWH flows, and implementing data quality checks.
-* **Data Modeling**: Advanced Star Schema design, Fact/Dimension tables, and DAX optimization.
-* **Automation**: Orchestrating workflows with tools like Airflow and Informatica PowerCenter.
-* **AI & Analytics**: Predictive modeling with Python and Computer Vision implementations.
+## 🛠️ Skills Applied Across Projects  
+- **Data Engineering & Warehousing**: ETL pipelines (SSIS), multi-layer architectures (Bronze/ODS → STG → DWH).  
+- **Data Modeling**: Star schemas, fact & dimension design, semantic models.  
+- **SQL Development**: Stored procedures, joins, subqueries, performance optimization.  
+- **Business Intelligence**: Power BI dashboards, DAX measures, KPIs.  
+- **Programming & AI**: Python, Machine Learning basics, Computer Vision projects.  
+- **Fabric & Cloud Skills**: Dataflows Gen2, Pipelines, Semantic Models in Microsoft Fabric, Cloud Data Warehousing, Power BI Service.  
 
 ---
 
-## 📫 Connect with me
-[LinkedIn](your-linkedin-link) | [Email](mailto:yousef.gaber.ai@gmail.com) | [Portfolio](https://github.com/Yousef-Jaber-Abdelaziz)
+## 🎯 About This Portfolio  
+This repo is a **central hub** to showcase my projects, demonstrate my technical skills, and track my progress as I grow as a **Data Engineer & AI Enthusiast**.  
+Feel free to explore each project repo for detailed documentation, code, and dashboards.  
+
+---
