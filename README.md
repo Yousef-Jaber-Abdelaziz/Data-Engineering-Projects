@@ -27,55 +27,63 @@ This repository serves as a **central hub** for my professional journey. Here, I
       <td>
         <a href="https://github.com/Yousef-Jaber-Abdelaziz/Electrical-Vehicles-Data-Analysis-Project">🔋 <b>EV Analysis</b></a>
       </td>
-      <td>Developed a modern <b>Medallion Architecture</b> to analyze global EV adoption. Focused on data ingestion from disparate sources into a centralized Lakehouse to track infrastructure growth and market trends.</td>
-      <td>
-        <code>Microsoft Fabric</code><br>
-        <code>Dataflows Gen2</code><br>
-        <code>Lakehouse</code><br>
-        <code>Power BI</code>
-      </td>
+      <td>Developed a <b>Medallion Architecture</b> to analyze global EV adoption and market trends.</td>
+      <td><code>MS Fabric</code><br><code>Lakehouse</code><br><code>Power BI</code></td>
     </tr>
     <tr>
       <td rowspan="2" align="center">🖥️<br><b>On-Premise</b></td>
       <td>
         <a href="https://github.com/Yousef-Jaber-Abdelaziz/Airline-Loyalty-Program-Data-Analysis">✈️ <b>Airline Loyalty</b></a>
       </td>
-      <td>Full <b>BI Stack</b> implementation for customer behavior. Designed advanced data models to track loyalty tier progression and flight frequency with optimized reporting schemas and semantic layers.</td>
-      <td>
-        <code>T-SQL</code> | <code>SSIS</code><br>
-        <code>SSAS</code> | <code>Power BI</code><br>
-        <code>Lucid Charts (Modeling)</code>
-      </td>
+      <td>Full <b>BI Stack</b> implementation for customer behavior and loyalty tier progression.</td>
+      <td><code>T-SQL</code> | <code>SSIS</code><br><code>SSAS</code> | <code>Power BI</code></td>
     </tr>
     <tr>
       <td>
         <a href="https://github.com/Yousef-Jaber-Abdelaziz/Youtube-Channels-Data-Analysis">📺 <b>YouTube Insights</b></a>
       </td>
-      <td>Integrated traditional analytics with <b>Agentic RAG</b> systems. Built a pipeline that allows for natural language querying of channel performance data using vector search and LLM orchestration.</td>
-      <td>
-        <code>Python</code> | <code>Streamlit</code><br>
-        <code>Agentic RAG</code> | <code>FAISS</code><br>
-        <code>HuggingFace</code> | <code>Grok</code><br>
-        <code>Embeddings</code>
-      </td>
+      <td>Integrated traditional analytics with <b>Agentic RAG</b> for intelligent channel querying.</td>
+      <td><code>Python</code> | <code>FAISS</code><br><code>Grok</code> | <code>Streamlit</code></td>
     </tr>
     <tr>
-      <td align="center"><b>Artificial Intelligence</b></td>
-      <td align="center">🖥️<br><b>On-Premise</b></td>
+      <td rowspan="5" align="center"><b>Artificial Intelligence</b></td>
+      <td rowspan="5" align="center">🖥️<br><b>On-Premise</b></td>
       <td>
-        <a href="#">🧠 <b>CV & ML Hub</b></a>
+        <a href="https://github.com/Yousef-Jaber-Abdelaziz/Smart_fitness_assitant">🏋️ <b>Smart Fitness Assistant</b></a>
       </td>
-      <td>A specialized collection of AI implementations including image classification and predictive modeling. Built pipelines to preprocess unstructured data for training various <b>ML</b> models.</td>
+      <td>A <b>Computer Vision</b> application that monitors exercise form in real-time to prevent injury and track reps.</td>
+      <td><code>Python</code><br><code>OpenCV</code><br><code>Mediapipe</code></td>
+    </tr>
+    <tr>
       <td>
-        <code>OpenCV</code><br>
-        <code>Scikit-Learn</code><br>
-        <code>TensorFlow</code><br>
-        <code>NumPy</code>
+        <a href="https://github.com/Yousef-Jaber-Abdelaziz/Twitter_Sentiment_Analysis_Classification">🐦 <b>Twitter Sentiment</b></a>
       </td>
+      <td><b>NLP</b> classification model to detect emotional tone in social media posts at scale.</td>
+      <td><code>NLTK</code><br><code>Scikit-Learn</code><br><code>Word Embeddings</code></td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/Yousef-Jaber-Abdelaziz/Formspring-Data-Cyberbullying-Classification">🛡️ <b>Cyberbullying Detect</b></a>
+      </td>
+      <td>Advanced text classification to identify and flag harmful content in social datasets.</td>
+      <td><code>Python</code><br><code>TF-IDF</code><br><code>ML Classifiers</code></td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/Yousef-Jaber-Abdelaziz/Advanced_House_Price_Prediction">🏠 <b>House Price Prediction</b></a>
+      </td>
+      <td><b>Regression</b> model using feature engineering to predict real estate values with high accuracy.</td>
+      <td><code>XGBoost</code><br><code>Pandas</code><br><code>Feature Selection</code></td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/Yousef-Jaber-Abdelaziz/Customer_Clustering-K-Means-PCA-">👥 <b>Customer Clustering</b></a>
+      </td>
+      <td><b>Unsupervised Learning</b> using PCA and K-Means to segment customers for targeted marketing.</td>
+      <td><code>K-Means</code><br><code>PCA</code><br><code>Scikit-Learn</code></td>
     </tr>
   </tbody>
 </table>
-
 ## 🛠️ Skills Applied Across Projects  
 - **Data Engineering & Warehousing**: ETL pipelines (SSIS), multi-layer architectures (Bronze/ODS → STG → DWH).  
 - **Data Modeling**: Star schemas, fact & dimension design, semantic models.  
