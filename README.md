@@ -13,59 +13,69 @@ This repository serves as a **central hub** for my professional journey. Here, I
 <table>
   <thead>
     <tr>
-      <th>Field Type</th>
-      <th>Env Type</th>
-      <th>Project</th>
-      <th>Description</th>
-      <th>Tech & Tools</th>
+      <th width="150">Field Type</th>
+      <th width="120">Env Type</th>
+      <th width="180">Project</th>
+      <th width="400">Project Detail & Impact</th>
+      <th>Tech Stack & Tools</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td rowspan="3" align="center">
-        <img src="https://img.shields.io/badge/Data_Analytics-informational?style=flat&logo=chartdotjs&logoColor=white" alt="Analytics"/><br>
-        <b>Data Analytics</b>
-      </td>
-      <td align="center">☁️ <br>Cloud</td>
+      <td rowspan="3" align="center"><b>Data Analytics</b></td>
+      <td align="center">☁️<br><b>Cloud</b></td>
       <td align="center">
-        <a href="https://github.com/Yousef-Jaber-Abdelaziz/Electrical-Vehicles-Data-Analysis-Project"><b>EV Analysis</b></a>
+        <a href="https://github.com/Yousef-Jaber-Abdelaziz/Electrical-Vehicles-Data-Analysis-Project"><b>Electrical Vehicles Analysis</b></a>
       </td>
-      <td>Analyzing EV adoption and infrastructure trends via modern cloud architecture.</td>
+      <td>Developed a modern <b>Medallion Architecture</b> to analyze global EV adoption. Focused on data ingestion from disparate sources into a centralized Lakehouse to track infrastructure growth and market trends.</td>
       <td>
-        <code>MS Fabric</code> <code>Lakehouse</code> <code>Power BI</code>
+        <code>Microsoft Fabric</code><br>
+        <code>Dataflows Gen2</code><br>
+        <code>Lakehouse</code><br>
+        <code>Power BI</code><br>
+        <code>SQL</code>
       </td>
     </tr>
     <tr>
-      <td rowspan="2" align="center">🖥️ <br>On-Prem</td>
+      <td rowspan="2" align="center">🖥️<br><b>On-Premise</b></td>
       <td align="center">
-        <a href="https://github.com/Yousef-Jaber-Abdelaziz/Airline-Loyalty-Program-Data-Analysis"><b>Airline Loyalty</b></a>
+        <a href="https://github.com/Yousef-Jaber-Abdelaziz/Airline-Loyalty-Program-Data-Analysis"><b>Airline Loyalty Program</b></a>
       </td>
-      <td>End-to-end analysis of customer loyalty behavior and flight activity.</td>
+      <td>Performed deep-dive analysis into customer flight patterns and loyalty tier progression. Managed the full <b>ETL lifecycle</b> including complex data cleaning, handling nulls, and schema optimization for reporting.</td>
       <td>
-        <code>SQL Server</code> <code>SSIS</code> <code>T-SQL</code>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <a href="https://github.com/Yousef-Jaber-Abdelaziz/Youtube-Channels-Data-Analysis"><b>YouTube Trends</b></a>
-      </td>
-      <td>Exploring content performance metrics and subscriber growth patterns.</td>
-      <td>
-        <code>Python</code> <code>Pandas</code> <code>Matplotlib</code>
+        <code>SQL Server</code><br>
+        <code>SSIS</code><br>
+        <code>T-SQL</code><br>
+        <code>Advanced Joins</code><br>
+        <code>Data Profiling</code>
       </td>
     </tr>
     <tr>
       <td align="center">
-        <img src="https://img.shields.io/badge/AI-brain?style=flat&logo=openai&logoColor=white" alt="AI"/><br>
-        <b>AI</b>
+        <a href="https://github.com/Yousef-Jaber-Abdelaziz/Youtube-Channels-Data-Analysis"><b>YouTube Channel Performance</b></a>
       </td>
-      <td align="center">🖥️ <br>On-Prem</td>
-      <td align="center">
-        <b>CV & ML</b>
-      </td>
-      <td>Implementing predictive models and image recognition solutions.</td>
+      <td>Scraped and analyzed channel metrics to identify drivers of engagement. Applied statistical methods to correlate upload frequency with subscriber growth and view velocity.</td>
       <td>
-        <code>OpenCV</code> <code>Scikit-Learn</code> <code>TensorFlow</code>
+        <code>Python</code><br>
+        <code>Pandas</code><br>
+        <code>Matplotlib / Seaborn</code><br>
+        <code>Jupyter Notebooks</code><br>
+        <code>SQLite</code>
+      </td>
+    </tr>
+    <tr>
+      <td align="center"><b>Artificial Intelligence</b></td>
+      <td align="center">🖥️<br><b>On-Premise</b></td>
+      <td align="center">
+        <b>Computer Vision & ML Hub</b>
+      </td>
+      <td>A collection of AI implementations including image classification and predictive modeling. Built pipelines to preprocess unstructured data for training various <b>Machine Learning</b> models.</td>
+      <td>
+        <code>OpenCV</code><br>
+        <code>Scikit-Learn</code><br>
+        <code>TensorFlow</code><br>
+        <code>NumPy</code><br>
+        <code>K-Means/Regression</code>
       </td>
     </tr>
   </tbody>
