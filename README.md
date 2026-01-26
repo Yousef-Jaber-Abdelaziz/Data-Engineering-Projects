@@ -87,19 +87,29 @@ This repository serves as a **central hub** for my professional journey. Here, I
     </tr>
   </tbody>
 </table>
----
-## 🛠️ Skills Applied Across Projects  
-- **Data Engineering & Warehousing**: ETL pipelines (SSIS), multi-layer architectures (Bronze/ODS → STG → DWH).  
-- **Data Modeling**: Star schemas, fact & dimension design, semantic models.  
-- **SQL Development**: Stored procedures, joins, subqueries, performance optimization.  
-- **Business Intelligence**: Power BI dashboards, DAX measures, KPIs.  
-- **Programming & AI**: Python, Machine Learning basics, Computer Vision projects.  
-- **Fabric & Cloud Skills**: Dataflows Gen2, Pipelines, Semantic Models in Microsoft Fabric, Cloud Data Warehousing, Power BI Service.  
 
 ---
 
-## 🎯 About This Portfolio  
-This repo is a **central hub** to showcase my projects, demonstrate my technical skills, and track my progress as I grow as a **Data Engineer & AI Enthusiast**.  
-Feel free to explore each project repo for detailed documentation, code, and dashboards.  
+---
+
+## 🏁 Conclusion
+
+I believe that data is only as valuable as the architecture supporting it and the intelligence extracted from it. This portfolio represents my commitment to mastering the full data lifecycle—from engineering resilient pipelines to deploying sophisticated AI models.
+
+As the data landscape evolves, I am actively expanding my expertise in **Cloud Orchestration**, **Advanced LLM Architectures**, and **Scalable Data Engineering** practices. This repository is a living document of my technical evolution, and I am always looking for new challenges that push the boundaries of what’s possible with Data and AI.
 
 ---
+
+## 📫 Contact & Connectivity
+
+Let's connect! I am always open to discussing data engineering, AI trends, or potential collaborations.
+
+* **📧 Email:** [yousef.gaber.ai@gmail.com](mailto:yousef.gaber.ai@gmail.com)
+* **🔗 LinkedIn:** [Yousef Jaber Abdelaziz]([https://www.linkedin.com/in/yousef-jaber-abdelaziz/](https://www.linkedin.com/in/yousef-jaber-306a83245?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bm0ix%2B3cNT7yofzxexdplXw%3D%3D)) *(Note: Replace with your actual LinkedIn URL)*
+* **🐙 GitHub:** [@Yousef-Jaber-Abdelaziz](https://github.com/Yousef-Jaber-Abdelaziz)
+* **📱 Phone:** +20 101 392 6658
+
+---
+<p align="center">
+  <i>"Turning raw data into intelligent action."</i>
+</p>
