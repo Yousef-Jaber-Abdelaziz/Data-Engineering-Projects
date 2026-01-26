@@ -1,7 +1,10 @@
 # 👋 Welcome to My Data & AI Portfolio  
 
-I'm **Yousef Jaber Abdelaziz**, a Computer Science graduate specialized in **Artificial Intelligence** with strong interest in **Data Engineering, Machine Learning, and Business Intelligence**.  
-This repository is a **portfolio collection** of my end-to-end projects that demonstrate how I apply both **On-Premise** and **Cloud (Fabric)** data engineering and analytics skills to solve real-world problems.  
+## 🚀 About Me
+I am **Yousef Jaber Abdelaziz**, a Computer Science graduate specialized in **Artificial Intelligence**. I am a passionate **Data Engineer and Analyst** dedicated to building robust data architectures and turning complex datasets into actionable business intelligence.
+
+## 🎯 My Mission
+This repository serves as a **central hub** for my professional journey. Here, I showcase end-to-end projects that span from **On-Premise ETL** workflows to **Modern Cloud (Fabric) Data Warehousing**. My goal is to bridge the gap between engineering efficiency and AI-driven decision-making.
 
 ---
 
