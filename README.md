@@ -15,8 +15,8 @@ This repository serves as a **central hub** for my professional journey. Here, I
     <tr>
       <th width="150">Field Type</th>
       <th width="120">Env Type</th>
-      <th width="180">Project</th>
-      <th width="400">Project Detail & Impact</th>
+      <th width="200">Project</th>
+      <th width="380">Project Detail & Impact</th>
       <th>Tech Stack & Tools</th>
     </tr>
   </thead>
@@ -25,57 +25,59 @@ This repository serves as a **central hub** for my professional journey. Here, I
       <td rowspan="3" align="center"><b>Data Analytics</b></td>
       <td align="center">☁️<br><b>Cloud</b></td>
       <td align="center">
-        <a href="https://github.com/Yousef-Jaber-Abdelaziz/Electrical-Vehicles-Data-Analysis-Project"><b>Electrical Vehicles Analysis</b></a>
+        <a href="https://github.com/Yousef-Jaber-Abdelaziz/Electrical-Vehicles-Data-Analysis-Project">
+          <img src="https://img.shields.io/badge/🔋-EV_Analysis-blue?style=flat" alt="EV"/><br><b>EV Analysis</b>
+        </a>
       </td>
-      <td>Developed a modern <b>Medallion Architecture</b> to analyze global EV adoption. Focused on data ingestion from disparate sources into a centralized Lakehouse to track infrastructure growth and market trends.</td>
+      <td>Developed a modern <b>Medallion Architecture</b> to analyze global EV adoption. Focused on data ingestion from disparate sources into a centralized Lakehouse to track infrastructure growth.</td>
       <td>
         <code>Microsoft Fabric</code><br>
         <code>Dataflows Gen2</code><br>
         <code>Lakehouse</code><br>
-        <code>Power BI</code><br>
-        <code>SQL</code>
+        <code>Power BI</code>
       </td>
     </tr>
     <tr>
       <td rowspan="2" align="center">🖥️<br><b>On-Premise</b></td>
       <td align="center">
-        <a href="https://github.com/Yousef-Jaber-Abdelaziz/Airline-Loyalty-Program-Data-Analysis"><b>Airline Loyalty Program</b></a>
+        <a href="https://github.com/Yousef-Jaber-Abdelaziz/Airline-Loyalty-Program-Data-Analysis">
+          <img src="https://img.shields.io/badge/✈️-Airline_Loyalty-green?style=flat" alt="Airline"/><br><b>Airline Loyalty</b>
+        </a>
       </td>
-      <td>Performed deep-dive analysis into customer flight patterns and loyalty tier progression. Managed the full <b>ETL lifecycle</b> including complex data cleaning, handling nulls, and schema optimization for reporting.</td>
+      <td>Full <b>BI Stack</b> implementation for customer behavior. Designed advanced data models to track loyalty tier progression and flight frequency with optimized reporting schemas.</td>
       <td>
-        <code>SQL Server</code><br>
-        <code>SSIS</code><br>
-        <code>T-SQL</code><br>
-        <code>Advanced Joins</code><br>
-        <code>Data Profiling</code>
+        <code>T-SQL</code> | <code>SSIS</code><br>
+        <code>SSAS</code> | <code>Power BI</code><br>
+        <code>Lucid Charts</code><br>
+        <code>Data Modeling</code>
       </td>
     </tr>
     <tr>
       <td align="center">
-        <a href="https://github.com/Yousef-Jaber-Abdelaziz/Youtube-Channels-Data-Analysis"><b>YouTube Channel Performance</b></a>
+        <a href="https://github.com/Yousef-Jaber-Abdelaziz/Youtube-Channels-Data-Analysis">
+          <img src="https://img.shields.io/badge/📺-YouTube_Intel-red?style=flat" alt="YouTube"/><br><b>YouTube Insights</b>
+        </a>
       </td>
-      <td>Scraped and analyzed channel metrics to identify drivers of engagement. Applied statistical methods to correlate upload frequency with subscriber growth and view velocity.</td>
+      <td>Integrated traditional analytics with <b>Agentic RAG</b>. This project doesn't just analyze metrics; it uses LLMs to query channel data, providing intelligent summaries of content performance.</td>
       <td>
-        <code>Python</code><br>
-        <code>Pandas</code><br>
-        <code>Matplotlib / Seaborn</code><br>
-        <code>Jupyter Notebooks</code><br>
-        <code>SQLite</code>
+        <code>Python</code> | <code>Streamlit</code><br>
+        <code>Agentic RAG</code> | <code>FAISS</code><br>
+        <code>HuggingFace</code> | <code>Grok</code><br>
+        <code>Embeddings</code>
       </td>
     </tr>
     <tr>
       <td align="center"><b>Artificial Intelligence</b></td>
       <td align="center">🖥️<br><b>On-Premise</b></td>
       <td align="center">
-        <b>Computer Vision & ML Hub</b>
+        <img src="https://img.shields.io/badge/🧠-AI_Core-purple?style=flat" alt="AI"/><br><b>CV & ML Hub</b>
       </td>
-      <td>A collection of AI implementations including image classification and predictive modeling. Built pipelines to preprocess unstructured data for training various <b>Machine Learning</b> models.</td>
+      <td>A specialized collection of AI implementations including image classification and predictive modeling. Built pipelines to preprocess unstructured data for training various <b>ML</b> models.</td>
       <td>
         <code>OpenCV</code><br>
         <code>Scikit-Learn</code><br>
         <code>TensorFlow</code><br>
-        <code>NumPy</code><br>
-        <code>K-Means/Regression</code>
+        <code>NumPy</code>
       </td>
     </tr>
   </tbody>
