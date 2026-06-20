@@ -1,10 +1,10 @@
-# 👋 Welcome to My Data & AI Portfolio  
+# 👋 Welcome to My Data & AI Portfolio
 
 ## 🚀 About Me
-I am **Yousef Jaber Abdelaziz**, a Computer Science graduate specialized in **Artificial Intelligence**. I am a passionate **Data Engineer and Analyst** dedicated to building robust data architectures and turning complex datasets into actionable business intelligence.
+I'm **Yousef Jaber Abdelaziz**, a Computer Science graduate specialized in **Artificial Intelligence**. I'm a Data Engineer and Analyst who enjoys building robust data architectures and turning complex, messy datasets into clear, actionable business intelligence.
 
 ## 🎯 My Mission
-This repository serves as a **central hub** for my professional journey. Here, I showcase end-to-end projects that span from **On-Premise ETL** workflows to **Modern Cloud (Fabric) Data Warehousing**. My goal is to bridge the gap between engineering efficiency and AI-driven decision-making.
+This repository is the **central hub** for my professional work — a single place to explore end-to-end projects spanning **on-premise ETL pipelines**, **event-driven streaming architectures**, and **modern cloud (Fabric) data warehousing**, alongside hands-on AI and machine learning builds. My goal is to bridge the gap between solid data engineering and AI-driven decision-making.
 
 ---
 
@@ -23,12 +23,19 @@ This repository serves as a **central hub** for my professional journey. Here, I
   </thead>
   <tbody>
     <tr>
-      <td rowspan="3" align="center"><b>Data Analytics</b></td>
+      <td rowspan="4" align="center"><b>Data Analytics</b></td>
       <td align="center">☁️<br>Cloud</td>
       <td align="center">Data Eng</td>
       <td><a href="https://github.com/Yousef-Jaber-Abdelaziz/Electrical-Vehicles-Data-Analysis-Project">🔋 <b>EV Analysis</b></a></td>
       <td>Built a <b>Medallion Architecture</b> for EV trends.</td>
       <td><code>MS Fabric</code>, <code>Lakehouse</code>, <code>Power BI</code></td>
+    </tr>
+    <tr>
+      <td align="center">🖥️<br>On-Prem</td>
+      <td align="center">Data Eng</td>
+      <td><a href="https://github.com/Yousef-Jaber-Abdelaziz/Chocolate-Sales-Analytics-Project.git">🍫 <b>Chocolate Sales</b></a></td>
+      <td>Event-driven <b>Medallion Pipeline</b> streaming CSV data through Kafka into a dbt-modeled star schema, exposed via a Cube.dev semantic layer to Power BI.</td>
+      <td><code>Kafka</code>, <code>DuckDB</code>, <code>dbt</code>, <code>Airflow</code>, <code>PostgreSQL</code>, <code>Cube.dev</code>, <code>Power BI</code>, <code>Docker</code></td>
     </tr>
     <tr>
       <td rowspan="2" align="center">🖥️<br>On-Prem</td>
@@ -90,22 +97,20 @@ This repository serves as a **central hub** for my professional journey. Here, I
 
 ---
 
----
-
 ## 🏁 Conclusion
 
-I believe that data is only as valuable as the architecture supporting it and the intelligence extracted from it. This portfolio represents my commitment to mastering the full data lifecycle—from engineering resilient pipelines to deploying sophisticated AI models.
+I believe data is only as valuable as the architecture supporting it and the intelligence extracted from it. This portfolio reflects my commitment to mastering the full data lifecycle — from engineering resilient, production-style pipelines to deploying sophisticated AI models.
 
-As the data landscape evolves, I am actively expanding my expertise in **Cloud Orchestration**, **Advanced LLM Architectures**, and **Scalable Data Engineering** practices. This repository is a living document of my technical evolution, and I am always looking for new challenges that push the boundaries of what’s possible with Data and AI.
+As the data landscape evolves, I'm actively growing my expertise in **cloud orchestration**, **advanced LLM architectures**, and **scalable data engineering** practices. This repository is a living document of that journey, and I'm always looking for new challenges that push the boundaries of what's possible with data and AI.
 
 ---
 
 ## 📫 Contact & Connectivity
 
-Let's connect! I am always open to discussing data engineering, AI trends, or potential collaborations.
+Let's connect! I'm always open to discussing data engineering, AI trends, or potential collaborations.
 
 * **📧 Email:** [yousef.gaber.ai@gmail.com](mailto:yousef.gaber.ai@gmail.com)
-* **🔗 LinkedIn:** [Yousef Jaber Abdelaziz]([https://www.linkedin.com/in/yousef-jaber-abdelaziz/](https://www.linkedin.com/in/yousef-jaber-306a83245/)
+* **🔗 LinkedIn:** [Yousef Jaber Abdelaziz](https://www.linkedin.com/in/yousef-jaber-306a83245/)
 * **🐙 GitHub:** [@Yousef-Jaber-Abdelaziz](https://github.com/Yousef-Jaber-Abdelaziz)
 * **📱 Phone:** +20 101 392 6658
 
