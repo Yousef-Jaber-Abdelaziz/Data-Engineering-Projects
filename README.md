@@ -4,7 +4,7 @@
 I'm **Yousef Jaber Abdelaziz**, a Computer Science graduate specialized in **Artificial Intelligence**. I'm a Data Engineer and Analyst who enjoys building robust data architectures and turning complex, messy datasets into clear, actionable business intelligence.
 
 ## 🎯 My Mission
-This repository is the **central hub** for my professional work — a single place to explore end-to-end projects spanning **on-premise ETL pipelines**, **event-driven streaming architectures**, and **modern cloud (Fabric) data warehousing**, alongside hands-on AI and machine learning builds. My goal is to bridge the gap between solid data engineering and AI-driven decision-making.
+This repository is the **central hub** for my professional work a single place to explore end-to-end projects spanning **on-premise ETL pipelines**, **event-driven streaming architectures**, and **modern cloud (Fabric) data warehousing**, alongside hands-on AI and machine learning builds. My goal is to bridge the gap between solid data engineering and AI-driven decision-making.
 
 ---
 
@@ -99,7 +99,7 @@ This repository is the **central hub** for my professional work — a single pla
 
 ## 🏁 Conclusion
 
-I believe data is only as valuable as the architecture supporting it and the intelligence extracted from it. This portfolio reflects my commitment to mastering the full data lifecycle — from engineering resilient, production-style pipelines to deploying sophisticated AI models.
+I believe data is only as valuable as the architecture supporting it and the intelligence extracted from it. This portfolio reflects my commitment to mastering the full data lifecycle from engineering resilient, production-style pipelines to deploying sophisticated AI models.
 
 As the data landscape evolves, I'm actively growing my expertise in **cloud orchestration**, **advanced LLM architectures**, and **scalable data engineering** practices. This repository is a living document of that journey, and I'm always looking for new challenges that push the boundaries of what's possible with data and AI.
 
